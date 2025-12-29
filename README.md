@@ -11,6 +11,3 @@ Python, Pandas, Matplotlib, Seaborn, Plotly, Dash, Folium.
 
 The dashboard should look something like this:
 <img width="1028" height="223" alt="image" src="https://github.com/user-attachments/assets/ab40a355-648d-49a4-957d-5fb42a5865f7" />
-
-## Tools
-Python, Pandas, Matplotlib, Seaborn, Plotly, Dash, Folium.
