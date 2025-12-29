@@ -1,6 +1,6 @@
 # automobile-sales-recession-visualisations
 
-The work was completed as part of the IBM Data Science Professional Certificate coursework, focusing on applied data visualisation and dashboard development. This project analyses the impact of economic recessions on automobile sales using a synthetic dataset.
+The work was completed as part of the IBM Data Science Professional Certificate coursework, focusing on applied data visualisation and dashboard development. This project analyses the impact of economic recessions on automobile sales.
 
 ## Contents
 - `analysis.ipynb` – Exploratory analysis and visualisations using Pandas, Matplotlib, Seaborn, and Folium.
